@@ -8,7 +8,7 @@ function createForm() {
   let div1 = document.createElement("div");
   let label = document.createElement("h1");
   let span = document.createElement("span");
-  label.textContent = "Customer Ditels";
+  label.textContent = "Customer Details";
   label.classList = "text-white font-weight-bold";
   div1.classList = "text-center text-white font-weight-bold";
   div1.appendChild(label);
